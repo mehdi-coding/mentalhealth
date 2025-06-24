@@ -458,8 +458,7 @@ textarea {
   box-shadow: 0 10px 15px rgba(0, 0, 0, 0.08);
 }
 .hero-section {
-  padding: 0.5rem 3rem;
-  height: 90vh;
+  padding: 0rem 3rem;
   background: linear-gradient(to bottom right, #ecfdf5, #ffffff, #f0fdfa);
   display: flex;
   align-items: center;
@@ -472,8 +471,8 @@ textarea {
 }
 
 .hero-title {
-  font-size: 2.75rem;
-  line-height: 1.2;
+  font-size: 2rem;
+  line-height: 1;
   font-weight: bold;
   color: #1e293b;
   margin-bottom: 1rem;
